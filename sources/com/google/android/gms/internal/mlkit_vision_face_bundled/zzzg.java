@@ -1,0 +1,13 @@
+package com.google.android.gms.internal.mlkit_vision_face_bundled;
+
+/* compiled from: com.google.mlkit:face-detection@@16.1.6 */
+/* loaded from: classes3.dex */
+public final class zzzg extends zzvh implements zzwt {
+    private zzzg() {
+        super(zzzh.zzb);
+    }
+
+    /* synthetic */ zzzg(zzzf zzzfVar) {
+        super(zzzh.zzb);
+    }
+}
